@@ -18,7 +18,7 @@ class Main {
     Scanner sc=new Scanner(System.in);
     a=sc.nextInt();
     for(int i=1;i<=10;i++){
-      System.out.println(a+"*"+i+"="a*i);
+      System.out.println(a+"*"+i+"="+a*i);
     }
   }
   public int lcm(int a,int b){
