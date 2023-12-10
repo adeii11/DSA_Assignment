@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-sigimport java.util.*;
 class Main {
 
   public int hcf(int a,int b){
